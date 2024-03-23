@@ -43,6 +43,8 @@ Building a successful online store is an exciting journey for me, filled with ch
 # Contact Me
 <details>
 <summary><i class="fas fa-chevron-right"></i></summary>
+# Contact me
+  <summary><i class="fas fa-chevron-right"></i></summary>
 
 </details>
 
