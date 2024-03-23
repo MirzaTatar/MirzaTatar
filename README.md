@@ -40,7 +40,7 @@ When it comes to creating thriving online businesses, there's a lot to consider.
 Building a successful online store is an exciting journey for me, filled with challenges and opportunities. I strive to navigate through the complexities and create an online shopping experience that delights customers and drives business growth.
 # Career Opportunities:
 -If you're ready to infuse your team with the energy and creativity of a junior developer who brings a fresh outlook to projects, let's make that connection! I would love to explore new opportunities where I can apply my skills and bring a unique perspective to exciting ventures,teams and projects.
-# Contact me
+# CONTACT ME
 
 
 ## 🌐 Socials:
