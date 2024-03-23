@@ -41,8 +41,8 @@ When it comes to creating thriving online businesses, there's a lot to consider.
 
 Building a successful online store is an exciting journey for me, filled with challenges and opportunities. I strive to navigate through the complexities and create an online shopping experience that delights customers and drives business growth.
 # Career Opportunities:
-- **If you're interested in hiring a dedicated and driven developer who see project from this point of view, let's connect! I'm actively seeking new opportunities to apply my skills and contribute to exciting projects.
-** 
+- If you're interested in hiring a dedicated and driven developer who see project from this point of view, let's connect! I'm actively seeking new opportunities to apply my skills and contribute to exciting projects.
+
 
 
 ## 🌐 Socials:
