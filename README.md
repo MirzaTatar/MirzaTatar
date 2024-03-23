@@ -9,9 +9,7 @@ Hello there! 👋 I'm Mirza Tatarevic, and I'm a passionate software developer w
 I am currently immersed in my first professional project for a client based in the USA. Excitingly, it's an E-commerce Shop, where every line of code I write is geared towards enhancing user experience and driving business growth.
 
 ## Current Focus:
-Right now, as a dedicated and driven developer, I am actively seeking employment opportunities where I can apply my skills and inovations to contribute meaningfully to exciting projects. I am enthusiastic about joining dynamic teams and leveraging my experience to add value to innovative initiatives. If you're looking for a motivated developer to enhance your team, I'd love to connect and explore potential collaborations.
-
-Also my primary focus is in leveraging the power of the MERN (MongoDB, Express.js, React, Node.js) stack to craft robust, scalable, and dynamic solutions for our client's E-commerce venture. From seamless front-end interactions to robust back-end functionalities, I'm dedicated to ensuring that every aspect of the project exceeds expectations.
+Primary focus is in leveraging the power of the MERN (MongoDB, Express.js, React, Node.js) stack to craft robust, scalable, and dynamic solutions for our client's E-commerce venture. From seamless front-end interactions to robust back-end functionalities, I'm dedicated to ensuring that every aspect of the project exceeds expectations and beyond.
 
 ## Looking Ahead:
 As I dive deeper into the world of software development, my goal is to continuously expand my skill set and take on new challenges. I'm love to explore innovative technologies, I love to create memorable user experience.
