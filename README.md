@@ -42,7 +42,7 @@ Building a successful online store is an exciting journey for me, filled with ch
 -If you're ready to infuse your team with the energy and creativity of a junior developer who brings a fresh outlook to projects, let's make that connection! I would love to explore new opportunities where I can apply my skills and bring a unique perspective to exciting ventures,teams and projects.
 # Contact Me
 <details>
-<summary><i class="fas fa-chevron-down"></i></summary>
+<summary><i class="fas fa-chevron-right"></i></summary>
 
 </details>
 
