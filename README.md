@@ -14,10 +14,10 @@ Right now, as a dedicated and driven developer, I am actively seeking employment
 Also my primary focus is in leveraging the power of the MERN (MongoDB, Express.js, React, Node.js) stack to craft robust, scalable, and dynamic solutions for our client's E-commerce venture. From seamless front-end interactions to robust back-end functionalities, I'm dedicated to ensuring that every aspect of the project exceeds expectations.
 
 ## Looking Ahead:
-As I dive deeper into the world of software development, my goal is to continuously expand my skill set and take on new challenges. I'm eager to explore innovative technologies, tackle complex problems, and collaborate with like-minded individuals who share my passion for creating impactful software solutions.
+As I dive deeper into the world of software development, my goal is to continuously expand my skill set and take on new challenges. I'm love to explore innovative technologies, I love to create memorable user experience.
 
-## Ask Me About:
-- MERN Stack Development: Whether you're curious about React component architecture, Node.js RESTful APIs, or MongoDB database optimization, feel free to pick my brain!
+## Love to talk about:
+- MERN Stack Development: Whether you're curious about React component architecture, Node.js RESTful APIs, or MongoDB database optimization, feel free to pick my brain! Let's learn something together, as a team!
 ## Crafting Successful Online Stores:
 When it comes to creating thriving online businesses, there's a lot to consider. From ensuring secure payment transactions to making product searches a breeze, let's dive into some savvy strategies for building stellar online stores:
 
@@ -40,8 +40,9 @@ When it comes to creating thriving online businesses, there's a lot to consider.
 - **Continuous Improvement:** The e-commerce landscape is always evolving, and so should your knowledge. We'll discuss the importance of staying curious, embracing new technologies, and continuously improving your online store.
 
 Building a successful online store is an exciting journey for me, filled with challenges and opportunities. I strive to navigate through the complexities and create an online shopping experience that delights customers and drives business growth.
-# Career Opportunities: If you're interested in hiring a dedicated and driven developer who see project from this point of view, let's connect! I'm actively seeking new opportunities to apply my skills and contribute to exciting projects.
-
+# Career Opportunities:
+- **If you're interested in hiring a dedicated and driven developer who see project from this point of view, let's connect! I'm actively seeking new opportunities to apply my skills and contribute to exciting projects.
+** 
 
 
 ## 🌐 Socials:
