@@ -4,7 +4,7 @@
 
 # 💫<span style="color:red">About Me:</span>
 
-Hello there! 👋 I'm Mirza Tatarevic, located in Munich (GER), and I'm a passionate software developer with a strong foundation in coding. I've recently completed a rigorous 9-month Coding academy at Paragon powered by HTEC, where I honed my skills and gained valuable experience in software development. Additionally, I hold certificates from Udemy platform, further validating my interest in aspects of programming.
+Hello there! 👋 I'm Mirza Tatarevic, and I'm a passionate software developer with a solid foundation in coding. I've recently completed a rigorous 9-month Coding academy at Paragon powered by HTEC, where I honed my skills and gained valuable experience in software development. Additionally, I hold certificates from Udemy platform, further validating my interest in aspects of programming.
 
 I am currently immersed in my first professional project for a client based in the USA. Excitingly, it's an E-commerce Shop, where every line of code I write is geared towards enhancing user experience and driving business growth.
 
