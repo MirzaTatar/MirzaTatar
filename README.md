@@ -12,7 +12,8 @@ I’m the Frontend Developer at AlooWeb, where we're on a mission to help small 
 🚀 Fast learning and brainstorming are my strengths. My curiosity keeps me going to explore new opportunities and try out fresh ideas, always pushing the limits.
 
 I am familiar with MERN Stack | MongoDB | Express Js | React Js | Node Js
-My biggest focus is on FrontEnd Development using React Js and Next Js.
+
+### My biggest focus is on FrontEnd Development using React Js and Next Js.
 
 
 ## My Approach
@@ -20,17 +21,29 @@ My biggest focus is on FrontEnd Development using React Js and Next Js.
 
 ## Let's Talk Tech
  Html
+ 
  Css
+ 
  JavaScript
+ 
  Responsive Web Design
+ 
  React.js
+ 
  Next.js
+ 
  NPM
+ 
  Webpack
+ 
  Front-End Development
+ 
  Agile Environment
+ 
  REST API
+ 
  Tailwind
+ 
  Back-End Development
 
 
